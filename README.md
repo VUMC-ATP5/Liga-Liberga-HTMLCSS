@@ -1,3 +1,6 @@
-# Šis ir mans pirmais GIT repozitorijs
-## Šī ir versija 2, kas atrodas otrajā zarā
-Šis ir mans 3. mājasdarbs_CV
+# Šis ir mans stāsts
+Mani sauc Līga un man ir 40 gadu. Esmu laimīgi precējusies un audzinu trīs bērnus. Vienmēr esmu gribējusi ceļot pa pasauli, ko esmu darījusi un esmu daudzkur pabijusi. Patreiz strādāju par kultūras nama vadītāju. Darbs man ļoti patīk, bet vienmēr esmu tiekusies pēc jaunām zināšanām un jauniem izaicinājumiem. Apzinos, ka visu mūžu negribēšu strādāt un darboties kultūras jomā, tāpēc jau kādu laiku uzrununā IT joma. Esmu piedalījusies Riga Techgirls kursos un tas arī mani pamudināja mēģināt padziļināti apgūt testēšanas novirzienu. Tāpēc pieteicos pieaugušo izglītības piedāvātajās apmācībās "Automatizētā testēšana". Šobrīd vēl viss ir ļoti nesaprotams un svešs, bet centīšos mācīties un cerēšu, ka izdosies apgūt pamatus.
+Mans viens no lielākajiem sapņiem ir apgūt profesiju un strādāt no jebkuras vietas pasaulē. Jau daudzus gadus mana sapņu zeme ir Horvātija. Esmu to iemīlējusi no pirmā acu uzmetiena un jau pabijusi 5 reizes, bet vēlos tur atgriezties vēl un vēl!
+# Horvātija
+Apbrīnojamais Horvātijas skaistums - vairāk nekā 56 tūkstošu kvadrātkilometru liela Eiropas Savienības valsts, kura atrodas pie Adrijas jūras. Horvātijā var izjust gan Balkānu, gan Centrāleiropas kultūru ietekmi. Šajā valstī ir 2600 saulainas stundas gadā, kas krietni pārsniedz Eiropas vidējo rādītāju. Horvātijas daba ir elpu aizraujoša un cilvēki viesmīlībā aicina vienmēr atgriezties.
+https://www.impro.lv/c_article.php?selected=articles&artId=CPHORVATIJA6
