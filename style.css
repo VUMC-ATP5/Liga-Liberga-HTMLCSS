@@ -1,0 +1,28 @@
+body {background-color: rgb(236, 240, 187);
+}
+
+.CV {font-style: italic;}
+.foto {border-style: double;
+color: darkolivegreen;}
+
+.Pd {font-style: italic;
+color: darkolivegreen;}
+.Ia {font-style: italic;
+color: darkolivegreen;}
+.Val {font-style: italic;
+color: darkolivegreen;}
+.Izgl {font-style: italic;
+color: darkolivegreen;}
+.Pie {font-style: italic;
+color: darkolivegreen;}
+
+
+
+div.pilnais{
+    min-height: 10px;
+    background-color:darkolivegreen;
+    display: flex;
+    
+
+}
+
